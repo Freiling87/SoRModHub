@@ -88,7 +88,7 @@ const list: ModProps[] = [
     buttons: [
       {type:"github", link:"https://github.com/Freiling87/CCU"},
       {type:"gamebanana", link:"https://gamebanana.com/mods/380574"},
-      {type:"direct", link:"https://gamebanana.com/dl/846356"},
+      {type:"direct", link:"https://github.com/Freiling87/CCU/releases/latest"},
       ],
     tags: ["mod", "mutators", "npcs", "traits", "innovative"], 
   },
